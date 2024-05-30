@@ -15,6 +15,8 @@ namespace Address_Book
             ArrayList list = new ArrayList();
             AddDetails a = new AddDetails();
             a.Adddetail(list);
+            EditContact editContact = new EditContact();
+            editContact.EditDetail(list);
         }
     }
 }
