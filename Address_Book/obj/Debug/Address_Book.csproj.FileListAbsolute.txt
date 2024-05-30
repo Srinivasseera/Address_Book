@@ -1,0 +1,7 @@
+C:\Address_Book\Address_Book\bin\Debug\Address_Book.exe.config
+C:\Address_Book\Address_Book\bin\Debug\Address_Book.exe
+C:\Address_Book\Address_Book\bin\Debug\Address_Book.pdb
+C:\Address_Book\Address_Book\obj\Debug\Address_Book.csproj.AssemblyReference.cache
+C:\Address_Book\Address_Book\obj\Debug\Address_Book.csproj.CoreCompileInputs.cache
+C:\Address_Book\Address_Book\obj\Debug\Address_Book.exe
+C:\Address_Book\Address_Book\obj\Debug\Address_Book.pdb
