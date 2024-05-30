@@ -17,6 +17,8 @@ namespace Address_Book
             a.Adddetail(list);
             EditContact editContact = new EditContact();
             editContact.EditDetail(list);
+            DeleteContact deleteContact = new DeleteContact();
+            deleteContact.Deletecontact(list);
         }
     }
 }

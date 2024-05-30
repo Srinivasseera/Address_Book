@@ -47,6 +47,7 @@
     <Compile Include="Address_Main.cs" />
     <Compile Include="Contacts.cs" />
     <Compile Include="CustomException.cs" />
+    <Compile Include="DeleteContact.cs" />
     <Compile Include="EditContact.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Validation.cs" />
